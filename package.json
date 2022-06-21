@@ -1,0 +1,33 @@
+{
+  "name": "lerja-plusone",
+  "version": "1.0.0",
+  "description": "A simple adding package",
+  "engines": {
+    "node": ">=7.8.0"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C19312856/lerja-plusone.git"
+  },
+  "keywords": [
+    "Lerja",
+    "Adding"
+  ],
+  "author": "Lerja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C19312856/lerja-plusone/issues"
+  },
+  "homepage": "https://github.com/C19312856/lerja-plusone#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
